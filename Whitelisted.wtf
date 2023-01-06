@@ -6,6 +6,8 @@ keys =
   "4178271418", -- Lokie Fnzelo
   "662567025", -- revert
   "4154420369", -- .Kron
-  "3736844324" --ItsB
+  "3736844324", -- ItsB
+  "3456102906", -- Tvrtle
+  "4114743489" -- lyofe
 }
 return keys
